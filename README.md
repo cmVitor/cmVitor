@@ -31,10 +31,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![Vitor GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmVitor&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmVitor&layout=compact&theme=tokyonight)
 
